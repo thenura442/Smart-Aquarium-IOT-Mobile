@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "540123801159",
+    "firebase_url": "https://fir-iotproj-default-rtdb.firebaseio.com",
+    "project_id": "fir-iotproj",
+    "storage_bucket": "fir-iotproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540123801159:android:bbac4a5aabc574ac94b362",
+        "android_client_info": {
+          "package_name": "com.example.myapplication123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540123801159-g5k52bj363t0u4u6omtdei1a1rhlo8d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYdN5uWdOi9OACunyblAtJBZ_bLfyrp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540123801159-g5k52bj363t0u4u6omtdei1a1rhlo8d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540123801159:android:54c759f992ce948694b362",
+        "android_client_info": {
+          "package_name": "com.example.smartaquarium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540123801159-g5k52bj363t0u4u6omtdei1a1rhlo8d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYdN5uWdOi9OACunyblAtJBZ_bLfyrp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540123801159-g5k52bj363t0u4u6omtdei1a1rhlo8d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
