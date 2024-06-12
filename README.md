@@ -1,4 +1,4 @@
-# Royal Chamber Mobile App
+# Smart Aquarium IOT Mobile App
 
 ### IoT-based Monitoring System:
 
